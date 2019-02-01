@@ -2,6 +2,14 @@
 
 A new Flutter application.
 
+Simple Flutter Application on Staggered GridView using flutter_staggered_grid_view library
+you can find it [here](https://pub.dartlang.org/packages/flutter_staggered_grid_view#-readme-tab-)
+
+this design is from the example app on the library documentation page
+
+<img src=https://github.com/mohamed0fadel/Flutter-Staggered-GridView/blob/master/screenshots/Screenshot.png width="300 "/>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
